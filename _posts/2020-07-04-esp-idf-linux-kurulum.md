@@ -3,7 +3,7 @@ layout: post
 title:  "ESP-IDF Linux kurulumu"
 date:   2020-07-04 18:51:34 +0300
 categories: esp-idf esp32
-tags: esp idf esp32 kurulum linux
+tags: esp idf esp32 linux kurulum
 ---
 Öncelikle ESP-IDF için gereken paketleri kurmamız gerekiyor. Bu paketler olmadan kurulumun bir anlamı olmayacaktır.
 
