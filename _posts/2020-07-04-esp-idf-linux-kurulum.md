@@ -37,10 +37,16 @@ sudo usermod -a -G uucp $USER
 
 Kurumları gerçekleştirdikten ve izinleri verdikten sonra esp adında bir dosya oluşturup ESP-IDF yi klonlamaya geldi sıra. 
 
-
 {% highlight %}
 cd ~/esp
 git clone --recursive https://github.com/espressif/esp-idf.git
+{% endhighlight %}
+
+Klonlama işlemi bittikten sonra /esp-idf dosyasının içine giriyoruz ve install.sh dosyasını çalıştırıyoruz.
+
+{% highlight %}
+cd ~/esp/esp-idf
+./install.sh
 {% endhighlight %}
 
 
