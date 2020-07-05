@@ -6,7 +6,7 @@ categories: esp-idf esp32
 tags: esp idf esp32 linux kurulum
 ---
 
-ESP-IDF, ESP ürünleri için FreeRTOS kullanarak programlama yapmamızı sağlayan Espressif firmasının bize sunduğu geliştirme ortamı. Bir çok önemli özelliğinin yanında en önemli özelliklerinden birisi de yazdığımız kodu şifreleyebilmemizi sağlaması. Geliştirme yaparken firmanın yayınladığı dokümanları okumak ve sürekli açıp bakmak çok faydalı olacaktır.
+ESP-IDF, ESP ürünleri için FreeRTOS kullanarak programlama yapmamızı sağlayan Espressif firmasının bize sunduğu geliştirme ortamı. Birçok önemli özelliğinin yanında en önemli özelliklerinden birisi de yazdığımız kodu şifreleyebilmemizi sağlaması. Geliştirme yaparken firmanın yayınladığı dokümanları okumak ve sürekli açıp bakmak çok faydalı olacaktır.
 
 [API Reference](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/index.html)
 
