@@ -26,7 +26,7 @@ sudo apt-get install git wget flex bison gperf python python-pip python-setuptoo
 _Arch tabanlı linuxler için_
 
 {% highlight bash %}
-sudo apt-get install git wget flex bison gperf python python-pip python-setuptools cmake ninja-build ccache libffi-dev libssl-dev dfu-util
+sudo pacman -S --needed gcc git make flex bison gperf python-pip cmake ninja ccache dfu-util
 {% endhighlight %}
 
 **Serial port izinleri için şu kodu yazmak yeterli olacaktır:**
