@@ -14,8 +14,11 @@ NVS yani Non-volatile storage, çevirisine baktığımızda kalıcı, uçucu olm
 **Gelelim bu alanda neler saklayabileceğime, bu alanda saklayabileceğimiz anahtar-değer çiftleri şu şekilde olabilir;**
 
 +Anahtarlar maksimum 15 karekter uzunluğunda ASCII karekter kümesinden karekterler olabilir.
+
 +Değerler ise integer tipler: uint8_t, int8_t, uint16_t, int16_t, 32, 64,
+
 +bloblar,
+
 +sıfır-sonlu dizeler olabilir.
 
 **Peki bu alana yazdığımız verileri nasıl silebiliriz?**
